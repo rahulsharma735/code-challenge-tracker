@@ -22,7 +22,7 @@ import { Label } from "@/components/ui/label";
 import { Textarea } from "@/components/ui/textarea";
 import { Button } from "@/components/ui/button";
 import { Progress } from "@/components/ui/progress";
-import { CheckCircle, Plus, ArrowRight, Edit, Trash2, Copy } from "lucide-react";
+import { CheckCircle, Plus, ArrowRight, Edit, Trash2, Copy, FileText } from "lucide-react";
 import { CustomSheet as CustomSheetType } from "@/utils/types";
 import { useNavigate } from "react-router-dom";
 import { useToast } from "@/components/ui/use-toast";
