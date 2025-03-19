@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/dfb48c0c-1f06-48dc-80b6-ca18e09f367d
+**URL**: (https://preview--code-challenge-tracker.lovable.app/)
 
 ## How can I edit this code?
 
@@ -56,5 +56,5 @@ This project is built with .
 
 ## How can I deploy this project?
 
-Simply open (https://lovable.dev/projects/dfb48c0c-1f06-48dc-80b6-ca18e09f367d) and click on Share -> Publish.
+Simply open ((https://preview--code-challenge-tracker.lovable.app/)) and click on Share -> Publish.
 
